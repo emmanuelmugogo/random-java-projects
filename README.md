@@ -15,3 +15,11 @@ i will be updating different console App projects as i go.
 **Factorizer
 - console app ask a user for a number 
 - gives the factors of that number and if the total of factors is same as the number is going to tell the user it is a prime number and if the number is prime is going to tell the user too.
+
+** Rock Paper Scissors
+- console app ask user how many rounds they want to play the game
+- give user options to pick from choices between rock paper and Scissors
+- randomly picks computer's choice
+- displays the results of who won
+- keeps track of round winner and display the total results and overall winner at the end
+- App asks a user if he/she want to continue, else it terminates
