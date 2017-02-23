@@ -10,6 +10,8 @@ public class Factorizer {
 
 		System.out.println("Please enter the number to factorize.");
 		num = scanner.nextInt();
+		
+		System.out.println("The factors of " + num + " are...");
 
 		for (int i = 1; i < num; i++) {
 			if (num % i == 0) {
